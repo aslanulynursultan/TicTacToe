@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe.Android", "TicTacToe\TicTacToe.Android\TicTacToe.Android.csproj", "{161B64A8-7649-46F8-864D-316C57C54122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe\TicTacToe.csproj", "{6D075F68-F916-42EF-A7FF-57E6EC259779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161B64A8-7649-46F8-864D-316C57C54122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161B64A8-7649-46F8-864D-316C57C54122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161B64A8-7649-46F8-864D-316C57C54122}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{161B64A8-7649-46F8-864D-316C57C54122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161B64A8-7649-46F8-864D-316C57C54122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161B64A8-7649-46F8-864D-316C57C54122}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6D075F68-F916-42EF-A7FF-57E6EC259779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D075F68-F916-42EF-A7FF-57E6EC259779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D075F68-F916-42EF-A7FF-57E6EC259779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D075F68-F916-42EF-A7FF-57E6EC259779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F25387-BD44-49FD-B392-3D8051BBC12E}
+	EndGlobalSection
+EndGlobal
